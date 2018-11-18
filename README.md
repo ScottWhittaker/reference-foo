@@ -3,3 +3,4 @@ A test repo
 
 - one
 - two
+- three
