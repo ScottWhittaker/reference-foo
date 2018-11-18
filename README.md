@@ -6,3 +6,4 @@ A test repo
 - three
 - four
 - five
+- six
